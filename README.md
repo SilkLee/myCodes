@@ -9,5 +9,5 @@
   "license": "MIT"
 }
 
-`name`: The name of the project. This field specifies the project's name.
-`version`: The version of the project. Used to identify the project's version.
+. `name`: The name of the project. This field specifies the project's name.
+. `version`: The version of the project. Used to identify the project's version.
