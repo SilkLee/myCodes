@@ -7,7 +7,6 @@
 }
 ```
 
-- **scroll_version** Revenue was off the chart.
 
 First Term
 : This is the definition of the first term.
