@@ -1,4 +1,4 @@
-# 项目配置说明
+# Project Configuration
 
 ```json
 {
@@ -8,10 +8,10 @@
   "author": "Your Name",
   "license": "MIT"
 }
-<!-- 注释：
-- `name`: 项目的名称。
-- `version`: 项目的版本号。
-- `description`: 项目的简要描述。
-- `author`: 项目的作者。
-- `license`: 项目的许可证。
--->
+Field Descriptions:
+
+- `name`: The name of the project. This field specifies the project's name.
+- `version`: The version of the project. Used to identify the project's version.
+description: A brief description of the project. Describes the main features and characteristics of the project.
+author: The author of the project. Specifies the creator or maintainer of the project.
+license: The license of the project. Indicates the type of license, such as MIT, under which the project's code is released.
