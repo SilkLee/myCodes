@@ -1,7 +1,3 @@
-
-
-Here's a paragraph that will be visible.
-
-[This is a comment that will be hidden.]: # 
-
-And here's another paragraph that's visible.
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
